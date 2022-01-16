@@ -5,7 +5,7 @@ import datetime as st
 a = input("Choose currency to convert: ")
 b = input("Choose another currency: ")
 c = input("Do you want to choose date or not if yes type \"yes\": ")
-if c == "Yes":
+if c == "yes":
     print("Type number example: \"Year: 2022\"")
     Year = input("Year: ")
     Month = input("Month: ")
