@@ -2,6 +2,8 @@
 from forex_python.converter import CurrencyRates
 from forex_python.converter import CurrencyCodes
 import datetime as st
+#Use only these currency code
+#{EUR,IDR, BGN, ILS, GBP, DKK, CAD, JPY, HUF, RON, MYR, SEK, SGD, HKD, AUD, CHF, KRW, CNY, TRY, HRK, NZD, THB ,USD ,NOK ,RUB, INR, MXN, CZK, BRL, PLN, PHP, ZAR}
 a = input("Choose currency to convert: ")
 a = a.upper()
 b = input("Convert to: ")
