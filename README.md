@@ -10,5 +10,7 @@ install these in your terminal
 pip install forex-python
 pip install tk
 
+****Currency converter is not working on friday(16:00cet), saturday and sunday due to The python_forex SDK uses The Forex Api, which gets its data from The European Central Bank
+
 
 
